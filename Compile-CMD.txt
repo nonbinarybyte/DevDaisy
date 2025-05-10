@@ -1,1 +1,1 @@
-gcc dev-daisy.c -o devdaisy
+gcc -o devdaisy dev-daisy.c $(pkg-config --cflags --libs gtk+-3.0 gtksourceview-4)

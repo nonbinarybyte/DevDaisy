@@ -9,6 +9,9 @@
 - [x] Autosave
 - [x] Save manually
 - [x] Open files
+- [x] Synax Highlighting
+- [ ] Dark Mode
+- [x] Dark Mode Toggle  
 
 ## LANGUAGE SUPPORT
 
